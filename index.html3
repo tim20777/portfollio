@@ -1,4 +1,3 @@
-
 <html>
   <head>
     <title>My Sites</title>
@@ -12,7 +11,7 @@
       <h1>Мои сайты</h1>
       <p class="text-big"><b>От конструктора Tilda до вёрстки на HTML и CSS</b></p>
       <p><a class="link-text" href="http://minecraftcs.tilda.ws/more"><b>Сайт</b></a> продуктового магазина из нескольких страниц был собран в Tilda</p>
-        <p><a class="link-text" href="https://kurs-ss-vilboa.github.io/-3-4-/"><b>Сайт</b></a> игровой студии, стили были написаны в атрибуте style</p>
+        <p><a class="link-text" href="https://tim20777.github.io/BitMarket/"><b>Сайт</b></a> магазина техники, стили были написаны в атрибуте style</p>
         <p><a class="link-text" href="https://tim20777.github.io/dfhgd/"><b>Сайт</b></a> компании "Pixel Design", CSS-селекторы, файл стилей</p>
         <p><a class="link-text" href="https://tim20777.github.io/I-FEEL-SOUND/"><b>Сайт</b></a> любителя музыки, вёрстка по макету, звук на сайтах</p>
         <p>Бонус: <a class="link-text" href="https://nadvilboa.github.io/-4-3_bonus/"><b>Сайт</b></a> турнира по киберспорту</p>
