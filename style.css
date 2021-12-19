@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-color:black;
+}
+a{
+    color:cornflowerblue;
+}
+a:hover{
+    color:cadetblue;
+    box-shadow:10px 5px 5px aquamarine;
+}
+a:focus{
+    color: skyblue;
+}
+h1{
+    color: white;
+}
+p{
+    color:white;
+}
+header{
+    box-shadow:100px 100px 100px royalblue;
+}
